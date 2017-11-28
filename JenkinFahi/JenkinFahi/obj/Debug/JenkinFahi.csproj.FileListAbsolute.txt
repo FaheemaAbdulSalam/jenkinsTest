@@ -1,1 +1,7 @@
 c:\users\rukiyath.faheema\documents\visual studio 2015\Projects\JenkinFahi\JenkinFahi\bin\Debug\JenkinFahi.exe.config
+C:\Users\rukiyath.faheema\jenkinsTest\JenkinFahi\JenkinFahi\bin\Debug\JenkinFahi.exe.config
+C:\Users\rukiyath.faheema\jenkinsTest\JenkinFahi\JenkinFahi\bin\Debug\JenkinFahi.exe
+C:\Users\rukiyath.faheema\jenkinsTest\JenkinFahi\JenkinFahi\bin\Debug\JenkinFahi.pdb
+C:\Users\rukiyath.faheema\jenkinsTest\JenkinFahi\JenkinFahi\obj\Debug\JenkinFahi.csprojResolveAssemblyReference.cache
+C:\Users\rukiyath.faheema\jenkinsTest\JenkinFahi\JenkinFahi\obj\Debug\JenkinFahi.exe
+C:\Users\rukiyath.faheema\jenkinsTest\JenkinFahi\JenkinFahi\obj\Debug\JenkinFahi.pdb
