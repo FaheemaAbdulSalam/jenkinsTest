@@ -1,4 +1,4 @@
-Jenkinsfile (Decalrative Pipeline)
+JenkinFileGit (Decalrative Pipeline)
 pipeline {
     agent { docker 'php' }
     stages {
